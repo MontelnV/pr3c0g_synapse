@@ -2,3 +2,10 @@ telethon
 sqlalchemy[asyncio]
 asyncpg
 python-dotenv
+aiomoex
+aiohttp
+aiochclient
+aiogram
+aiogram-calendar
+fastapi
+uvicorn[standard]
